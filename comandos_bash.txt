@@ -4,3 +4,5 @@ pwd -> mostra o caminho do diretório
 cat -> exibe o conteúdo do arquivo
 rm  -> apaga o arquivo ou diretório
 rm -rf -> apaga de forma recursiva e forçada todos os diretórios
+
+fodase

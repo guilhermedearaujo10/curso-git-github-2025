@@ -4,3 +4,14 @@ git add     -> adiciona arquivo para ser comitado
 git commit -m "msg" -> faz commit do que estava pra ser comitado
 git log -> mostra todo o histórico de commit
 
+## FLUXO DE TRABALHO 
+
+1. cria um diretório
+2. iniciar o git dentro do diretório criado (git init .)
+3. cria e edita arquivos
+4. git status
+5. git add <nome do arquivo>
+6. git status
+7. git commit -m "msg"
+8. git status
+9. volta para o passo 3.
