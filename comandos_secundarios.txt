@@ -2,8 +2,6 @@ Esse arquivo contém informações adicionais para o git
 
 - Primeiro comando
 - Segundo comando
-<<<<<<< HEAD
-=======
 
 # Comandos genéricos
 - comandos estranhos
@@ -13,4 +11,3 @@ Esse arquivo contém informações adicionais para o git
 skskskasksdlaks
 skskskksks
 daçskdaçlskdaç
->>>>>>> secundaria
