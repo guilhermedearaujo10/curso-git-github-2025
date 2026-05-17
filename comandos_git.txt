@@ -1,5 +1,5 @@
-git init .  -> cria um repo git na pasta atual
-git status  -> mostra o status do trabalho (de cada arquiv)
+git init .          -> cria um repo git na pasta atual
+git status          -> mostra o status do trabalho (de cada arquiv)
 git add     -> adiciona arquivo para ser comitado
 git commit -m "msg" -> faz commit do que estava pra ser comitado
 git log -> mostra todo o histórico de commit
@@ -12,6 +12,6 @@ git log -> mostra todo o histórico de commit
 4. git status
 5. git add <nome do arquivo>
 6. git status
-7. git commit -m "msg"
+7. git commit -m "Mensagem estranha"
 8. git status
-9. volta para o passo 3.
+9. volta para o passo 3
