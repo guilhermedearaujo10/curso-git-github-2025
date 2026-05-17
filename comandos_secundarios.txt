@@ -3,11 +3,8 @@ Esse arquivo contém informações adicionais para o git
 - Primeiro comando
 - Segundo comando
 
+
 # Comandos genéricos
 - comandos estranhos
 
-# Mais comandos !!!
 
-skskskasksdlaks
-skskskksks
-daçskdaçlskdaç
